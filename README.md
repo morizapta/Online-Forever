@@ -2,7 +2,7 @@
 Keep ypou Discord profile online forever
 
 1. Register Replit - https://Replit.com
-2. Run on Replit - https://replit.com/new/github/Gunthersuper/Discord-Online-Forever
+2. Run on Replit https://github.com/morizapta/Online-Forever
 3. Get Token of your Discord:
   - Login to your Discord in the browser
   - Press: CTRL+SHITT+I or F12. Go to Network. Click some dialogue or some server
