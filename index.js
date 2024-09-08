@@ -6,7 +6,7 @@ const bot = new Eris(process.env.token);
 const bot2 = new Eris(process.env.token2);
 const bot3 = new Eris(process.env.token3);
 const bot4 = new Eris(process.env.token4);
-const bot4 = new Eris(process.env.token5);
+const bot5 = new Eris(process.env.token5);
 
 bot.on("error", (err) => {
   console.error(err); // or your preferred logger
